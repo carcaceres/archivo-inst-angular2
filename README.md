@@ -1,10 +1,10 @@
 # archivo-inst-angular2
-
-#1. INSTALACION DE LAS DEPEDENCIAS
+#1. Crea una Carpeta con los Archivo de Instalación package.json, systemjs.config.js,tsconfig.json,typings.json
+#2. INSTALACION DE LAS DEPEDENCIAS
 #npm install
-#2. INSTALACION DE TYPESCRIPT
+#3. INSTALACION DE TYPESCRIPT
 #npm run typings install
-#3. INSTALACIÓN BOOTSTRAP
+#4. INSTALACIÓN BOOTSTRAP
 #npm install bootstrap@3
-#4. INSTALACION JQUERY
+#5. INSTALACION JQUERY
 #npm install jquery
